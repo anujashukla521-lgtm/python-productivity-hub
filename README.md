@@ -83,4 +83,4 @@ The purpose of this project was to practice Python fundamentals while building a
 ## 👨‍💻 Author
 
 Anuja Shukla
-Built as part of a Python learning journey and consistency challenge. 🚀
+- Built as part of a Python learning journey and consistency challenge. 🚀
